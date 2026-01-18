@@ -419,7 +419,7 @@ Urquhart, A. (2016). The inefficiency of Bitcoin. *Economics Letters*, 148, 80-8
 ## Appendix: Code Availability
 
 All code used in this analysis is available at:
-[https://github.com/yourusername/ethereum-weekend-effect](https://github.com/yourusername/ethereum-weekend-effect)
+[https://github.com/BiBiDaWang/ethereum-weekend-effect](https://github.com/BiBiDaWang/ethereum-weekend-effect)
 
 The repository includes:
 - Data collection scripts (`eth_trading_patterns.py`)
