@@ -157,28 +157,6 @@ end_date = datetime(2024, 12, 31)
 for i in range(50):  # Increase from 5 to 50 blocks per day
 ```
 
-## Skills Demonstrated
-
-### Technical Skills
-- **Python Programming:** Object-oriented design, error handling, API integration
-- **Data Analysis:** pandas for data manipulation, scipy for statistical tests
-- **Visualization:** matplotlib and seaborn for publication-quality figures
-- **API Usage:** RESTful API calls, rate limiting, authentication
-- **Statistical Methods:** Hypothesis testing, effect sizes, confidence intervals
-
-### Research Skills
-- **Literature Connection:** Linking to behavioral finance theories (calendar anomalies)
-- **Hypothesis Formation:** Clear, testable research question
-- **Data Collection:** Designing sampling strategy within resource constraints
-- **Statistical Rigor:** Multiple tests, assumption checking, effect size reporting
-- **Critical Thinking:** Identifying and acknowledging methodological limitations
-- **Communication:** Clear documentation and visualization of findings
-
-### Domain Knowledge
-- **Blockchain Technology:** Understanding Ethereum architecture, block production, transaction types
-- **Cryptocurrency Markets:** DeFi protocols, market microstructure, institutional participation
-- **Financial Economics:** Calendar effects, market efficiency, behavioral biases
-
 ## Limitations and Future Work
 
 ### Current Limitations
