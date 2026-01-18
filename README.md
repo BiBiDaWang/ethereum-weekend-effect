@@ -228,10 +228,10 @@ See `requirements.txt` for full dependencies. Key packages:
 
 ## Author
 
-**[Your Name]**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+**[Yuyan Kuang]**
+- GitHub: [@BiBiDaWang](https://github.com/BiBiDaWang)
+- Email: deltakuang@gmail.com
+- LinkedIn: [Yuyan Kuang](https://www.linkedin.com/in/yuyan-kuang-70a95b145/)
 
 ## License
 
