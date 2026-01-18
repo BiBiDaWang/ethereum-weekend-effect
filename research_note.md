@@ -1,8 +1,8 @@
 # The Weekend Effect in Ethereum Blockchain Activity: Evidence from 2025 Transaction Data
 
-**Author:** [Your Name]  
+**Author:** [Yuyan Kuang]  
 **Date:** January 2026  
-**Affiliation:** [Your University/Institution]
+**Affiliation:** [University of California, Davis]
 
 ---
 
